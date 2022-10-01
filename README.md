@@ -1,4 +1,4 @@
-Apt update 
-Apt upgrade 
-Pkg install git 
-Pkg install python
+What is termux waa operating system 
+Loo talagalay hacking mobile 📱 android 
+Taa soo kuu uga laaneeyso wax kasta
+Uu hacking ah
